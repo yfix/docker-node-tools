@@ -1,0 +1,6 @@
+version: '2'
+services:
+  node-tools:
+    build: .
+#    image: yfix/node-tools
+    container_name: yfix-node-tools-test
