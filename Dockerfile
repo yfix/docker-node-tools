@@ -1,4 +1,4 @@
-FROM yfix/nodejs:v6
+FROM yfix/nodejs:v7
 
 MAINTAINER Yuri Vysotskiy (yfix) <yfix.dev@gmail.com>
 
